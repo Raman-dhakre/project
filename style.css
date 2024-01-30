@@ -9,21 +9,21 @@
   background-color: #0f1111;
   color: white;
 }
-.nav-logo{
+.nav-logo {
   height: 50px;
   width: 100px;
-}  
+}
 
-.logo{
+.logo {
   background-image: url("amzon_logo.png");
   height: 50px;
   background-size: cover;
-   width: 100%; 
+  width: 100%;
 }
-.border{
+.border {
   border: 2px solid transparent;
 }
-.border:hover{
+.border:hover {
   border: 1.5px solid white;
 }
 
