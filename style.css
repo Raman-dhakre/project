@@ -26,4 +26,17 @@
 .border:hover {
   border: 1.5px solid white;
 }
+.add-first{
+  color: #cccccc;
+  font-size: 0.85rem;
+  margin-left: 15px;
+}
+.add-sec{
+  color: white;
+  margin-left: 3px;
+}
+.add-icon {
+  display: flex;
+  align-items: center;
+}
 
